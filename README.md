@@ -69,7 +69,7 @@ A estrutura utiliza path aliases (`@/*`) para imports absolutos, facilitando ref
 - **Developer Experience**: Git hooks automatizados, path aliases, e estrutura de pastas que facilita navegação e manutenção
 - **Otimizações de Performance**: Revalidação seletiva de cache, Server Components para reduzir bundle size, e queries otimizadas com Prisma
 - **Regras de Negócio Centralizadas**: Lógica de períodos e validações isoladas em utils, facilitando testes e manutenção
-
+.
 ## Tecnologias Utilizadas
 
 - Next.js 15.4.6
