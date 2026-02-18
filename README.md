@@ -4,6 +4,12 @@ Sistema de gestão de agendamentos para petshop desenvolvido com Next.js 15, imp
 
 A solução gerencia o ciclo completo de agendamentos com validação de regras de negócio (períodos permitidos, conflitos de horário), interface responsiva otimizada para mobile-first e revalidação inteligente de cache para garantir consistência de dados.
 
+## Preview
+
+![Home](./img/home.png)
+
+![Image](./img/image.png)
+
 ## Principais Responsabilidades
 
 - Gestão completa de agendamentos (CRUD) com validação de períodos permitidos (manhã: 9h-12h, tarde: 13h-18h, noite: 19h-21h)
